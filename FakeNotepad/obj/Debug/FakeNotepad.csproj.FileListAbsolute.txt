@@ -1,0 +1,12 @@
+C:\Users\ALTAY\source\repos\MyProject2\FakeNotepad\bin\Debug\FakeNotepad.exe.config
+C:\Users\ALTAY\source\repos\MyProject2\FakeNotepad\bin\Debug\FakeNotepad.exe
+C:\Users\ALTAY\source\repos\MyProject2\FakeNotepad\bin\Debug\FakeNotepad.pdb
+C:\Users\ALTAY\source\repos\MyProject2\FakeNotepad\obj\Debug\FakeNotepad.csprojAssemblyReference.cache
+C:\Users\ALTAY\source\repos\MyProject2\FakeNotepad\obj\Debug\FakeNotepad.Properties.Resources.resources
+C:\Users\ALTAY\source\repos\MyProject2\FakeNotepad\obj\Debug\FakeNotepad.csproj.GenerateResource.cache
+C:\Users\ALTAY\source\repos\MyProject2\FakeNotepad\obj\Debug\FakeNotepad.exe
+C:\Users\ALTAY\source\repos\MyProject2\FakeNotepad\obj\Debug\FakeNotepad.pdb
+C:\Users\ALTAY\source\repos\MyProject2\FakeNotepad\obj\Debug\FakeNotepad.FindForm.resources
+C:\Users\ALTAY\source\repos\MyProject2\FakeNotepad\obj\Debug\FakeNotepad.MainForm.resources
+C:\Users\ALTAY\source\repos\MyProject2\FakeNotepad\obj\Debug\FakeNotepad.ReplaceForm.resources
+C:\Users\ALTAY\source\repos\MyProject2\FakeNotepad\obj\Debug\FakeNotepad.Go_to.resources
